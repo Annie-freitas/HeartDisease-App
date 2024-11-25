@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle  # or joblib
-from sklearn.preprocessing import StandardScaler
+
 
 # Load the model and scaler
 model = pickle.load(open('Heart_Disease_model.pkl', 'rb'))
