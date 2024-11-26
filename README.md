@@ -1,0 +1,2 @@
+# HeartDisease App
+ This project leverages machine learning to predict the likelihood of heart disease based on clinical and demographic inputs such as age, cholesterol levels, chest pain type, and more. The model is built using supervised learning techniques and deployed via Streamlit for an interactive user experience. Users can input relevant health data and receive a prediction of potential heart disease risk, helping to raise awareness and support preventive care decisions.
